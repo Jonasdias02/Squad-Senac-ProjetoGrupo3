@@ -12,7 +12,7 @@ const Contact = () => {
 
   <div className='contatos' >
     <h1 className='formtitle'>Fale Conosco:</h1>
-    <form className="formMsg" action='/Home'>
+    <form className="formMsg" action='/Home.jsx'>
       <input 
         class='w-100' 
         className='caixaform'
@@ -50,7 +50,7 @@ const Contact = () => {
         id="submit" 
         value="Enviar" 
         placeholder='Enviar' >
-        <Link to='/home.jsx' onClick={feed}>
+        <Link to='/Home.jsx' onClick={feed}>
         Enviar</Link>
         </button>
       
