@@ -190,7 +190,7 @@ const products = [
          price: "199.99",
          image01: product_04_sobremesa_01,
       
-         category: "sobremesa",
+         category: "Sobremesa",
         
          desc: "Bolo superfofinho, coberto de calda cremosa de avelã.",
       }
