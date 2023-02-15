@@ -1,0 +1,66 @@
+.contatos {
+    display: flex;
+    width: 50%;
+    margin: 15px 20%;
+    flex-direction: column;
+
+}
+
+
+.formtitle {
+    color: rgba(248, 111, 6, 0.862);
+    font-size: 30px;
+    margin: 5px 25px;    
+}
+
+.caixaform{  
+    padding: 3px 40%;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+    border-color: rgba(248, 111, 6, 0.862);
+    text-align: center;
+    font-family: 'remixicon';
+}
+
+.caixatext{
+    padding: 3px 39%;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: rgba(248, 111, 6, 0.862);
+    text-align: center;
+    font-family: 'remixicon';
+}
+
+.formMsg{
+    width: 100%;
+    height: 40%;
+    margin: 10px 15px 25px 15px;
+    padding: 5px 5px 5px 5px;
+}
+
+.buttonform{
+    color: #fff;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgba(248, 111, 6, 0.862);
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px 50% 5%;
+    box-shadow: 5px 5px 5px 5px #ca9797;
+}
+
+
+.agradece {
+    display: flex;
+    width: 50%;
+    margin: 15px 20%;
+    flex-direction: column;
+}
+
+.agradeci {
+    color: rgba(248, 111, 6, 0.862);
+    font-size: 30px;
+    margin: 5px 25px;    
+}

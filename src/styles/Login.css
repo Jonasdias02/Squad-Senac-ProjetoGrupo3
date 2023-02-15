@@ -1,0 +1,77 @@
+
+
+.Page_login {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    margin: 30px 20%;
+    flex-direction: column;
+    border-radius: 8px;
+    border-color: #000;
+    box-shadow: rgba(248, 111, 6, 0.862);
+}
+
+.title_acess{
+    color: rgba(248, 111, 6, 0.862);
+    font-size: 25px;
+    justify-content: center;
+    margin: 25px 15px;
+    font-weight: bold;  
+}
+
+.user, .password {
+    width: 50%;
+    padding: 0px 50px 5px 10px;
+    margin: 0px 5px 5px 5px;
+    border-radius: 5px;
+    border-color: rgba(248, 111, 6, 0.862);
+    text-align: left;
+    font-family: 'remixicon';
+    background-color: #f8f6f6;
+    color: #000000;
+}
+
+.apres_caixa {
+    size: 15px;
+    width: 30%;
+    padding: 1px 5px;
+    margin: 1px 1px 5px 5px;
+    border-radius: 5px;
+    border-color: rgba(248, 111, 6, 0.862);
+    text-align: left;
+    font-family: 'remixicon';
+}
+
+.buttons_login{
+    display:block;
+}
+
+.buttonform2{
+    color: #f3f2f0;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #ff6e0d;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px 10% 5%;
+    box-shadow: 5px 5px 5px 5px #ca9797;
+}
+.buttonform2 :hover{
+    background-color: transparent;
+    color: #000;
+}
+
+.buttonform3{
+    color: #000;
+    width: 35%;
+    height: 30px;
+    border-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px 15px 15px 15px;
+    padding: 5px 10px 10px 20px;
+}
