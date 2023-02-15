@@ -22,7 +22,9 @@ import socialinsta from '../assets/images/Instagram.png'
 
 
 
-
+  function LoginOK() {
+    alert('Seja bem vindo')
+  }
 
 
 const Login = () => {
@@ -72,7 +74,7 @@ const Login = () => {
       id="login" 
       value="login" 
       placeholder='Login'> 
-      <Link to='/Home'>
+      <Link to='/Home' onClick='LoginOK'>
         Login </Link> </button>
   </div>
 
