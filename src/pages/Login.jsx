@@ -22,11 +22,6 @@ import socialinsta from '../assets/images/Instagram.png'
 
 
 
-  function LoginOK() {
-    alert('Seja bem vindo')
-  }
-
-
 const Login = () => {
   return (
   <div className='Page_login' action='/'>
@@ -37,7 +32,9 @@ const Login = () => {
     <div className='logando'> 
       <label className='apres_caixa'>
         Usuário/E-mail:</label>
-      <input className='user'
+
+      <input className='user_2'
+
         type={'text'}
         placeholder="usuário/e-mail">
       </input>
@@ -47,7 +44,8 @@ const Login = () => {
       <label className='apres_caixa'>
         Senha:</label>
     
-      <input className='password'
+
+      <input className= 'password'
         type={"password"}
        placeholder='senha'>
       </input>

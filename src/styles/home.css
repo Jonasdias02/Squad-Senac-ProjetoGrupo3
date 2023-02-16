@@ -23,6 +23,7 @@
     border-radius: 8px;
 }
 
+
 .food__category button{
     border: none;
     outline: none;
@@ -30,6 +31,7 @@
     background: transparent;
     color: #fff;
 }
+
 
 .food__category button img{
     width: 20px;

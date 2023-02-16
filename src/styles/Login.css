@@ -20,16 +20,16 @@
     font-weight: bold;  
 }
 
-.user, .password {
+
+.user_2, .password {
     width: 50%;
-    padding: 0px 50px 5px 10px;
     margin: 0px 5px 5px 5px;
     border-radius: 5px;
     border-color: rgba(248, 111, 6, 0.862);
     text-align: left;
     font-family: 'remixicon';
     background-color: #f8f6f6;
-    color: #000000;
+
 }
 
 .apres_caixa {

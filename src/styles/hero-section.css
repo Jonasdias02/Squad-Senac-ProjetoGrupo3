@@ -44,6 +44,11 @@
 
 .all__foods-btn a {
     color: #e66700;
+    text-decoration: none;
+}
+
+.all__foods-btn a:hover{
+    color: #212245;
 }
 
 .hero__service p {
