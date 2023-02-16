@@ -32,7 +32,9 @@ const Login = () => {
     <div className='logando'> 
       <label className='apres_caixa'>
         Usuário/E-mail:</label>
+
       <input className='user_2'
+
         type={'text'}
         placeholder="usuário/e-mail">
       </input>
@@ -42,6 +44,7 @@ const Login = () => {
       <label className='apres_caixa'>
         Senha:</label>
     
+
       <input className= 'password'
         type={"password"}
        placeholder='senha'>
