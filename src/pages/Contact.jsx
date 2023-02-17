@@ -14,29 +14,26 @@ const Contact = () => {
     <h1 className='formtitle'>Fale Conosco:</h1>
     <form className="formMsg" action='/Home.jsx'>
       <input 
-        class='w-100' 
-        className='caixaform'
+        className='caixaform w-100'
         type="text" 
         name="nome" 
         placeholder='Nome' />
     
       <input 
-        class='w-100'  
-        className='caixaform' 
+ 
+        className='caixaform w-100'
         type="telefone" 
         name="telefone"  
         placeholder='(xx) XXXXX-XXXX' />
       
       <input 
-        class='w-100' 
-        className='caixaform' 
+        className='caixaform w-100'
         type="email" 
         name="email" 
         placeholder='seuemail@provedor.com' />
       
       <textarea 
-        class='w-100' 
-        className='caixatext' 
+        className='caixaform w-100' 
         name="mensagem" 
         id="mensagem" 
         placeholder='Escreva para nossa equipe'></textarea>
