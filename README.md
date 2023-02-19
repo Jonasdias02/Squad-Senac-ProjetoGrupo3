@@ -2,6 +2,10 @@
 
 Site de Churrascaria e Delivery.
 
+#Squad-6 
+Jonas/ Página Home, footer e barra de navegação.
+André/ Página de Contato e login.
+
 
 # Getting Started with Create React App
 
